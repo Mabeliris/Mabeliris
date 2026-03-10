@@ -41,11 +41,11 @@ Through technology I aim to build tools that simplify everyday problems.
 
 ## 📊 GitHub Stats
 
-![Mabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabeliris&show_icons=true&theme=tokyonight)
+![Mabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mabeliris&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabeliris&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mabeliris&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mabeliris&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mabeliris&theme=tokyonight)
 
 ---
 
